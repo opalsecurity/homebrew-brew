@@ -3,8 +3,8 @@ require "language/node"
 class OpalSecurity < Formula
   desc "Opal allows you to centrally manage access to all of your sensitive systems"
   homepage "https://github.com/cli/opal"
-  url "https://registry.npmjs.org/opal-security/-/opal-security-0.4.0.tgz"
-  sha256 "af58d9716679a9740da75082202018e72881c9c23a630a24979a567bece82ab2"
+  url "https://registry.npmjs.org/opal-security/-/opal-security-0.5.0.tgz"
+  sha256 "ce137bdd86a6269749553fa497774aed706e9d53d9bb32dda9797477d681a7a1"
   license "MIT"
 
   livecheck do
