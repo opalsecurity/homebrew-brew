@@ -1,6 +1,13 @@
-Opal Homebrew Tap
--------------------
+# Opal Security CLI
 
-Install the Opal CLI with
+## Installation
 
-    $ brew install opalsecurity/brew/opal-security
+### npm
+```bash
+npm install -g opal-security
+```
+
+### Homebrew
+```bash
+brew install opalsecurity/brew/opal-security
+```
